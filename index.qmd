@@ -1,11 +1,11 @@
 ---
-title: "Pr 7"
+title: "Главная страница"
 ---
 
-This is a Quarto website.
+![](png/monday.jpg){fig-align="center" width="187"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Сайт создан: **Комков Андрей БИСО-02-20** (Copyright ©)
 
-```{r}
-1 + 1
-```
+Ссылка на основой репрозиторий: <https://github.com/AndrewKom/auth_5sem>
+
+Информация была взята с сайта: <https://phdays.com/>
