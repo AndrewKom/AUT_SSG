@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Практическая работа №7: Gihub и SSG"
+  title: "Практическая работа №7: Github и SSG"
   navbar:
     left:
       - href: index.qmd
