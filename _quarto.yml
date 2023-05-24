@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "Pr 7"
+  title: "Практическая работа №7: Gihub и SSG"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About me
       - about.qmd
 
 format:
