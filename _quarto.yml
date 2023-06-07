@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  freeze: auto
+
 website:
   title: "Практическая работа №7"
   navbar:
@@ -9,6 +12,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+
 
 format:
   html:
