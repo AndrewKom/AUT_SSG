@@ -1,1 +1,1 @@
-Sitemap: https://AndrewKom.github.io/AUT_SSG/sitemap.xml
+Sitemap: https://github.com/AndrewKom/AUT_SSG/sitemap.xml
