@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 execute:
   freeze: auto
@@ -11,8 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about.qmd
+        text: PHDays
 
 format:
   html:
